@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hi there!👋 I'm Gabriel Rodrigues :)
 
-<!--
-**brittola/brittola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### ----------------- About me 😉 ------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨🏻‍🦱 I'm 22 years old and a self taught programmer;
+
+🌱 I’m currently learning and practicing Javascript, along with HTML and CSS;
+
+💡 I’m looking to improving my projects and skills. Feel free to give me some advices!
+
+
+I'm always trying to grow, learn something new and I love talking about the things I learn.
+
+
+### ------------- Find me elsewhere ✌️ --------------
+
+=> instagram.com/gr_britto
+
+=> linkedin.com/in/grbritto
+
+
+### Recent projects below! 💻
