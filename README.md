@@ -5,7 +5,7 @@
 
 👨🏻‍🦱 I'm 22 years old and a self taught programmer;
 
-🌱 I’m currently learning and practicing Javascript, along with HTML and CSS;
+🌱 I’m currently learning and practicing React;
 
 💡 I’m looking to improve my projects and skills. Feel free to give me some advices!
 
