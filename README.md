@@ -12,6 +12,13 @@
 
 ### I'm always trying to grow, learn something new and I love talking about the things I learn.
 
+## ----------------- My Techs --------------------
+
+- HTML, CSS & JavaScript
+- Bootstrap
+- Node (Express, Mongoose)
+- MongoDB
+- React (Redux)
 
 ## ------------- Find me elsewhere ✌️ --------------
 
