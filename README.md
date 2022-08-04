@@ -16,6 +16,7 @@
 
 - HTML, CSS & JavaScript
 - Bootstrap
+- SASS
 - Node (Express, Mongoose)
 - MongoDB
 - React (Redux)
