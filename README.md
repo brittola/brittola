@@ -5,7 +5,7 @@
 
 👨🏻‍🦱 I'm 22 years old and a self taught programmer;
 
-🌱 I’m currently learning and practicing React;
+🌱 I’m currently learning and practicing Node.js;
 
 💡 I’m looking to improve my projects and skills. Feel free to give me some advices!
 
@@ -15,9 +15,9 @@
 ## ----------------- My Techs --------------------
 
 - HTML, CSS & JavaScript
-- Bootstrap
 - SASS
-- Node (Express, Mongoose)
+- Node (Express, Sequelize, Mongoose)
+- MySQL
 - MongoDB
 - React (Redux)
 
