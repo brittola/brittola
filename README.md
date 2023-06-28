@@ -20,6 +20,7 @@
 - MySQL
 - MongoDB
 - React (Redux)
+- Vue.js
 
 ## ------------- Find me elsewhere ✌️ --------------
 
