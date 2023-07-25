@@ -19,8 +19,8 @@
 - Node (Express, Sequelize, Mongoose)
 - MySQL
 - MongoDB
-- React (Redux)
-- Vue.js
+- React
+- Jest
 
 ## ------------- Find me elsewhere ✌️ --------------
 
