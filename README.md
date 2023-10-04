@@ -3,9 +3,9 @@
 
 ## ----------------- About me 😉 ------------------
 
-👨🏻‍🦱 I'm 22 years old and a self taught programmer;
+👨🏻‍🦱 I'm 23 years old and a self taught programmer;
 
-🌱 I’m currently learning and practicing Node.js;
+🌱 I’m currently learning and practicing Node.js with TypeScript;
 
 💡 I’m looking to improve my projects and skills. Feel free to give me some advices!
 
@@ -16,6 +16,7 @@
 
 - HTML, CSS & JavaScript
 - SASS
+- TypeScript
 - Node (Express, Sequelize, Mongoose)
 - MySQL
 - MongoDB
