@@ -5,7 +5,7 @@
 
 👨🏻‍🦱 I'm 23 years old and a self taught programmer;
 
-🌱 I’m currently learning and practicing Node.js with TypeScript;
+🌱 I’m currently learning and practicing Go (Golang);
 
 💡 I’m looking to improve my projects and skills. Feel free to give me some advices!
 
@@ -18,6 +18,7 @@
 - SASS
 - TypeScript
 - Node (Express, Sequelize, Mongoose)
+- Go (Golang)
 - MySQL
 - MongoDB
 - React
