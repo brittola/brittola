@@ -16,8 +16,7 @@
 
 - HTML, CSS & JavaScript
 - SASS
-- TypeScript
-- Node (Express, Sequelize, Mongoose)
+- Node
 - Go (Golang)
 - MySQL
 - MongoDB
